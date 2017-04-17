@@ -12,6 +12,7 @@ package me.colecar.colortext;
 
 import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;
+import org.bukkit.entity.Player;
 
 public class command implements CommandExecutor {
 
@@ -27,3 +28,4 @@ public class command implements CommandExecutor {
     }
     
 }
+ 

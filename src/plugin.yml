@@ -1,3 +1,5 @@
+## YAML Template.
+---
 name: tutorialEPone
 main: me.colecar.colortext.main
 version: 1.0
