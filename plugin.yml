@@ -1,0 +1,6 @@
+name: tutorialEPone
+main: me.colecar.colortext.main
+version: 1.0
+commands:
+    message:
+        description: Main command for ep1
